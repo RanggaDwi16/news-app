@@ -4,7 +4,7 @@ A Flutter application implementing **Clean Architecture** to fetch and display n
 
 ### 🔹 Video Demo
 
-$
+$ https://drive.google.com/file/d/17yRD__THU9rxU4MqoXMOcgnW6yCYgU2o/view?usp=sharing
 
 ### 🔹 Architecture
 
